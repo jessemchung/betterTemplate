@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "preserve",
+    "noImplicitAny": true,
+    "target": "es5",
+
+    
+  },
+  
+}
+
+
+//jsx set to preserve so that files are converted to jsx file instead
+
+//tsc -w
+
+
+// "sourceMap": true,
+// "noImplicitAny": true,
+// "module": "commonjs",
+// "target": "es6",
+// "jsx": "react"

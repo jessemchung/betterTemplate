@@ -1,0 +1,1 @@
+//# sourceMappingURL=firstType.jsx.map
